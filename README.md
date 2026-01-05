@@ -18,18 +18,21 @@ I enjoy building real-world applications, learning by doing, and improving my sk
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+### Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36"/>
+</p>
+
 
 ---
 
@@ -43,10 +46,10 @@ I enjoy building real-world applications, learning by doing, and improving my sk
 
 ## 🌟 What I Bring to a Team
 
-- ✔️ Willingness to learn fast and adapt
-- ✔️ Consistent effort and responsibility
-- ✔️ Clear communication and collaboration
-- ✔️ A growth mindset over ego
+- Willingness to learn fast and adapt
+- Consistent effort and responsibility
+- Clear communication and collaboration
+- A growth mindset over ego
 
 ---
 
