@@ -51,5 +51,3 @@ I enjoy building real-world applications, learning by doing, and improving my sk
 
 ---
 
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
