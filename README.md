@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Fresh Graduate Software Engineer** with a strong interest in **full-stack development**.  
+I'm a **Fresh Graduate Software Engineer** with a strong interest in **Frontend Development**.  
 I enjoy building real-world applications, learning by doing, and improving my skills through feedback and collaboration.
 
 - 🌱 Currently learning **Frontend Development & DevOps basics**
