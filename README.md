@@ -8,9 +8,9 @@
 I'm a **Fresh Graduate Software Engineer** with a strong interest in **full-stack development**.  
 I enjoy building real-world applications, learning by doing, and improving my skills through feedback and collaboration.
 
-- 🌱 Currently learning **Full Stack Development & DevOps basics**
+- 🌱 Currently learning **Frontend Development & DevOps basics**
 - 💻 Interested in **frontend + backend systems**
-- 🤝 Open to **Full Stack / Web Development internships**
+- 🤝 Open to **Web Development internships**
 - ✨ I value clean UI, readable code, and teamwork
 
 ---
